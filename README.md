@@ -25,7 +25,7 @@
 
 <p>Как решала:<p>
 
-> <a href="https://www.notion.so/1-2-b101d2e123d64c73a1ac99dec2f1e74a?pvs=4">Ссылка на декомпозицию</a>
+> <a href="https://www.notion.so/1-2-b101d2e123d64c73a1ac99dec2f1e74a?pvs=4">Ссылка на проект</a>
  
  <p>Выводы (итоги):<p>
 <ol>
