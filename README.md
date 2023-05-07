@@ -7,7 +7,7 @@
 
 ## Навыки и технологии
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Confluence``, ``Swagger``, ``SoapUI``, <br>
-``Charles``, ``Chrome DevTools``.
+``Charles``, ``Chrome DevTools``, ``Notion``.
 
 
 
