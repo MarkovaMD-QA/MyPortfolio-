@@ -38,4 +38,6 @@
 
 
 ## Контактная информация
-- Email: akkara812@mail.ru
+- Тел.: 8-919-146-09-33
+- Email: markovamaria072@gmail.com
+- Telegram: https://t.me/Maria_md
